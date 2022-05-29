@@ -1,6 +1,7 @@
 *
 !*/
 !.gitignore
+!.github/workflows/CI.yml
 !main.py
 !test_checkout.py
 !Checkout.py
