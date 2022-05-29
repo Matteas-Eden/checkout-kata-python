@@ -1,0 +1,12 @@
+*
+!*/
+!.gitignore
+!main.py
+!test_checkout.py
+!Checkout.py
+!Rules.py
+!Item.py
+!README.md
+!requirements.txt
+!pricing_policy.json
+!setup.cfg
